@@ -21,8 +21,8 @@ byte lastButtonState4;  // variable to store current button4 state
 
 #define BTN_PIN1     8 // 8 pin - button(BTN1) of Z-Uno board
 #define BTN_PIN2     7 // 7 pin - button(BTN2) of Z-Uno board
-#define BTN_PIN3     6 // 8 pin - button(BTN2) of Z-Uno board
-#define BTN_PIN4     5 // 9 pin - button(BTN2) of Z-Uno board
+#define BTN_PIN3     6 // 6 pin - button(BTN2) of Z-Uno board
+#define BTN_PIN4     5 // 5 pin - button(BTN2) of Z-Uno board
 
 #define SWITCH_ON 0xff
 #define SWITCH_OFF 0
