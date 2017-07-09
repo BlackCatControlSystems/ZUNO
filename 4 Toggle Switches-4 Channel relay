@@ -1,5 +1,5 @@
 [code]
-// LED pin number
+// LED or Relay pin number
 
 #define LED_PIN1 9    //  9 pin - user LED of Z-Uno board
 #define LED_PIN2 10   // 10 pin - user LED of Z-Uno board
