@@ -1,2 +1,2 @@
 # ZUNO
-ZUNO code for 4 toggle switch and 4 relays
+ZUNO code for 4 toggle switchs and 4 relays
